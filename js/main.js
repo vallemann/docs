@@ -12,5 +12,6 @@ window.onload = window.onresize = function() {
 }
 
 function action() {
+    alert("BIG MISTAKE!");
     window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 }
